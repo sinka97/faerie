@@ -1,7 +1,5 @@
-
+![FAERIE Logo][faerie-logo]
 <br/>
-<div align="center">
-  ![FAERIE Logo][faerie-logo]
 <h3 align="center">F.A.E.R.I.E.</h3>
 <p align="center">
 Fully Autonomous Engine for Rapid Information Extraction
