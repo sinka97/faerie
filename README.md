@@ -2,7 +2,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/sinka97/faerie">
-    <img src="readme-images\FAERIE_Logo.jpg" alt="Logo" width="80" height="80">
+    <img src="readme-images\FAERIE_Logo.jpg" alt="Logo" width="600" height="1024">
   </a>
 <h3 align="center">F.A.E.R.I.E.</h3>
 <p align="center">
@@ -24,6 +24,7 @@ Fully Autonomous Engine for Rapid Information Extraction
 
 ![FAERIE Architecture][faerie-architecture]
 
+
 F.A.E.R.I.E. aims to make knowledge transfer to new staff seamless by empowering them with a tool to quickly retrieve information from their organization's knowledge base.
 
 What is F.A.E.R.I.E.?
@@ -34,9 +35,11 @@ What is F.A.E.R.I.E.?
 
 ### Built With
 
-Technologies that power this project.
-
+Architecture deployed with:
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
+Powered by:
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](https://neo4j.com/)
 
@@ -90,5 +93,5 @@ A special thanks to the following for without them this project would not have b
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[faerie-architecture]: readme-images\FAERIE_Architecture.png
-[faerie-kg-datamodel]: readme-images\FAERIE_KG_Datamodel.png
+[faerie-architecture]: readme-images/FAERIE_Architecture.png
+[faerie-kg-datamodel]: readme-images/FAERIE_KG_Datamodel.png
