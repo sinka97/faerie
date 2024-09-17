@@ -1,5 +1,7 @@
-![FAERIE Logo][faerie-logo]
 <br/>
+<p align="center">
+  <img src="readme-images/FAERIE_Logo.jpg" alt="FAERIE Logo" style="max-width: 100%; height: auto; width: 50%;"/>
+</p>
 <h3 align="center">F.A.E.R.I.E.</h3>
 <p align="center">
 Fully Autonomous Engine for Rapid Information Extraction
@@ -89,4 +91,3 @@ A special thanks to the following for without them this project would not have b
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [faerie-architecture]: readme-images/FAERIE_Architecture.png
 [faerie-kg-datamodel]: readme-images/FAERIE_KG_Datamodel.png
-[faerie-logo]: readme-images/FAERIE_Logo.jpg
