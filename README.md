@@ -2,7 +2,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/sinka97/faerie">
-    <img src="readme-images\FAERIE_Logo.jpg" alt="Logo" width="600" height="1024">
+    <img src="readme-images\FAERIE_Logo.jpg" alt="Logo" width="200" height="342">
   </a>
 <h3 align="center">F.A.E.R.I.E.</h3>
 <p align="center">
