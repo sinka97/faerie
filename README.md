@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <img src="readme-images/FAERIE_Logo.jpg" alt="FAERIE Logo" style="max-width: 100%; height: auto; width: 50%;"/>
+  <img src="readme-images/FAERIE_Logo.png" alt="FAERIE Logo" style="max-width: 100%; height: auto; width: 50%;"/>
 </p>
 <h3 align="center">F.A.E.R.I.E.</h3>
 <p align="center">
