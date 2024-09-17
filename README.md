@@ -1,9 +1,7 @@
 
 <br/>
 <div align="center">
-  <a href="https://github.com/sinka97/faerie">
-    <img src="readme-images\FAERIE_Logo.jpg" alt="Logo" width="342" height="200">
-  </a>
+  ![FAERIE Logo][faerie-logo]
 <h3 align="center">F.A.E.R.I.E.</h3>
 <p align="center">
 Fully Autonomous Engine for Rapid Information Extraction
@@ -93,3 +91,4 @@ A special thanks to the following for without them this project would not have b
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [faerie-architecture]: readme-images/FAERIE_Architecture.png
 [faerie-kg-datamodel]: readme-images/FAERIE_KG_Datamodel.png
+[faerie-logo]: readme-images/FAERIE_Logo.jpg
